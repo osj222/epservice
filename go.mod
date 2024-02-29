@@ -1,4 +1,4 @@
-module service
+module github.com/osj222/pservice
 
 go 1.12
 
